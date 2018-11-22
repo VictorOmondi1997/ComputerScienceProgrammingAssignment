@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542891707 source:c:\users\user\desktop\computerscienceprogrammingassignment\averageoftwonumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
